@@ -12,7 +12,7 @@
 
 |                  | Etkinlik Tarihi   | Yazılım Dilleri                  | Takım İsimleri    | Etkinlik Görevlileri |
 |------------------|-------------------|----------------------------------|-------------------|----------------------|
-| Proje Atölyesi 2 | 05.07.2023        | Python, C, C++, Java, JavaScript | @omerahat,        | @omerahat            |
+| Proje Atölyesi 2 | 05.07.2023        | Python, C, C++, Java, JavaScript | ,        |             |
 | Proje Atölyesi 3 | Henüz Belli Değil | Henüz Belli Değil                | Henüz Belli Değil | Henüz Belli Değil    |
 
 ## Nasıl Katkıda Bulunabilirsiniz
