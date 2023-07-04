@@ -33,6 +33,8 @@
 
 Projeniz için kendi readmenizi yazabilirsiniz. Yazmak istemeyenler için aşağıdaki taslağı kullanarak hızlıca hazırlayabilir.
 
+[Proje README Taslağı](https://docs.google.com/document/d/1i6h_fZC1tds9_VKSwVKtfP2K-gvJvI7fmxGa6nYUNJc/edit?usp=sharing)
+
 
 ## Yazar
 
