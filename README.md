@@ -27,7 +27,7 @@
 
 6. Pull Request Gönderin: Github üzerinde forked repository'nize gidin, yeni branch'inizi seçin, "New pull request" düğmesine tıklayın ve orijinal repository'e pull request göndermek için yönergeleri izleyin.
 
-7. Form doldurun.
+7. [Form](burası henüz hazır değil) doldurun.
 
 ## Proje İçin Readme Hazırlama
 
