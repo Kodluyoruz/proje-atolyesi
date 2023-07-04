@@ -28,3 +28,11 @@
 6. Pull Request Gönderin: Github üzerinde forked repository'nize gidin, yeni branch'inizi seçin, "New pull request" düğmesine tıklayın ve orijinal repository'e pull request göndermek için yönergeleri izleyin.
 
 7. Form doldurun.
+
+## Yazar
+
+Bu README dosyası [@omerahat](https://github.com/omerahat) tarafından yazılmıştır.
+
+[![Owner](https://img.shields.io/badge/writer-omerahat-red)](https://github.com/omerahat)
+[![Contact](https://img.shields.io/badge/contact-linkedin-blue)](https://www.linkedin.com/in/omerahat/)
+
