@@ -14,10 +14,10 @@
 | Proje Atölyesi 2 | 05.07.2023        | Python, C, C++, Java, JavaScript | ...               | [@omerahat](https://github.com/omerahat) [@berktugates](https://github.com/berktugates) [@zynpasarkaya](https://github.com/zynpasarkaya) [@haydogdu1990](https://github.com/haydogdu1990) [kaankacar](https://github.com/kaankacar) |
 | Proje Atölyesi 3 | Henüz Belli Değil | Henüz Belli Değil                | Henüz Belli Değil | Henüz Belli Değil                                                                                                                                                                        |
 
-## Nasıl Katkıda Bulunabilirsiniz
+## Nasıl Projenizi Ekleyebilirsiniz
 1. Repository'i Fork Edin: Github'daki repository'e gidin, sağ üst köşedeki "Fork" düğmesine tıklayarak repository'nin kişisel bir kopyasını Github hesabınızda oluşturun.
 
-2. Repository'i Clone Edin: Bir terminal açın ve ``` git clone https://github.com/Kodluyoruz/proje-atolyesi.git ``` komutunu çalıştırarak forklanmış repository'inizi makinenize klonlayın.
+2. Repository'i Clone Edin: Bir terminal açın ve ``` git clone https://github.com/Kodluyoruz/proje-atolyesi.git ``` komutunu çalıştırarak veya github desktopla forklanmış repository'inizi makinenize klonlayın.
 
 3. Yeni bir branch oluşturun: Değişiklikleriniz için yeni bir branch oluşturmak için ``` git checkout -b main ``` komutunu çalıştırın.
 
@@ -28,6 +28,11 @@
 6. Pull Request Gönderin: Github üzerinde forked repository'nize gidin, yeni branch'inizi seçin, "New pull request" düğmesine tıklayın ve orijinal repository'e pull request göndermek için yönergeleri izleyin.
 
 7. Form doldurun.
+
+## Proje İçin Readme Hazırlama
+
+Projeniz için kendi readmenizi yazabilirsiniz. Yazmak istemeyenler için aşağıdaki taslağı kullanarak hızlıca hazırlayabilir.
+
 
 ## Yazar
 
