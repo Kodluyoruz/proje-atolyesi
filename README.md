@@ -11,7 +11,7 @@
 ## Etkinlik Takip Tablosu
 |                  | Etkinlik Tarihi   | Yazılım Dilleri                  | Takım İsimleri    | Etkinlik Görevlileri                                                                                                                                                                     |
 |------------------|-------------------|----------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Proje Atölyesi 2 | 05.07.2023        | Python, C, C++, Java, JavaScript | ...               | [@omerahat](https://github.com/omerahat) [@berktugates](https://github.com/berktugates) [@zynpasarkaya](https://github.com/zynpasarkaya) [@haydogdu1990](https://github.com/haydogdu1990) |
+| Proje Atölyesi 2 | 05.07.2023        | Python, C, C++, Java, JavaScript | ...               | [@omerahat](https://github.com/omerahat) [@berktugates](https://github.com/berktugates) [@zynpasarkaya](https://github.com/zynpasarkaya) [@haydogdu1990](https://github.com/haydogdu1990) [kaankacar](https://github.com/kaankacar) |
 | Proje Atölyesi 3 | Henüz Belli Değil | Henüz Belli Değil                | Henüz Belli Değil | Henüz Belli Değil                                                                                                                                                                        |
 
 ## Nasıl Katkıda Bulunabilirsiniz
@@ -33,6 +33,6 @@
 
 Bu README dosyası [@omerahat](https://github.com/omerahat) tarafından yazılmıştır.
 
-[![Owner](https://img.shields.io/badge/writer-omerahat-red)](https://github.com/omerahat)
+[![Github](https://img.shields.io/badge/github-omerahat-red)](https://github.com/omerahat)
 [![Contact](https://img.shields.io/badge/contact-linkedin-blue)](https://www.linkedin.com/in/omerahat/)
 
