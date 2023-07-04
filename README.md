@@ -9,11 +9,10 @@
 💌 Bu şekilde, her grup kendi fikirlerini ve düşüncelerini bir araya getirerek birlikte daha büyük bir projeyi oluşturacaklar. Etkinlik, insanların yaratıcılıklarını kullanmalarına ve farklı bakış açılarını birleştirmelerine olanak tanırken, aynı zamanda birbirleriyle etkileşim kurmalarına yardımcı olur. Etkinliğin sonunda, her grup kendi yaratımını sunacak ve diğer grupların projelerini de görebilecektir.
 
 ## Etkinlik Takip Tablosu
-
-|                  | Etkinlik Tarihi   | Yazılım Dilleri                  | Takım İsimleri    | Etkinlik Görevlileri |
-|------------------|-------------------|----------------------------------|-------------------|----------------------|
-| Proje Atölyesi 2 | 05.07.2023        | Python, C, C++, Java, JavaScript | ,        |             |
-| Proje Atölyesi 3 | Henüz Belli Değil | Henüz Belli Değil                | Henüz Belli Değil | Henüz Belli Değil    |
+|                  | Etkinlik Tarihi   | Yazılım Dilleri                  | Takım İsimleri    | Etkinlik Görevlileri                                                                                                                                                                     |
+|------------------|-------------------|----------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Proje Atölyesi 2 | 05.07.2023        | Python, C, C++, Java, JavaScript | ...               | [@omerahat](https://github.com/omerahat) [@berktugates](https://github.com/berktugates) [@zynpasarkaya](https://github.com/zynpasarkaya) [@haydogdu1990](https://github.com/haydogdu1990) |
+| Proje Atölyesi 3 | Henüz Belli Değil | Henüz Belli Değil                | Henüz Belli Değil | Henüz Belli Değil                                                                                                                                                                        |
 
 ## Nasıl Katkıda Bulunabilirsiniz
 1. Repository'i Fork Edin: Github'daki repository'e gidin, sağ üst köşedeki "Fork" düğmesine tıklayarak repository'nin kişisel bir kopyasını Github hesabınızda oluşturun.
