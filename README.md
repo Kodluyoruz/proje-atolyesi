@@ -1,4 +1,4 @@
-![1680116617008](https://github.com/Kodluyoruz/proje-atolyesi/assets/52050768/cc4e5ff9-9b37-4837-ae28-c34904f08b06)
+![proje atölyesi](https://github.com/Kodluyoruz/proje-atolyesi/assets/52050768/51b974bd-6b7f-489c-abb1-14d4cf855281)
 
 
 ## Proje Atölyesi Nedir?
