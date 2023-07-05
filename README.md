@@ -1,5 +1,5 @@
-![proje atölyesi](https://github.com/Kodluyoruz/proje-atolyesi/assets/52050768/51b974bd-6b7f-489c-abb1-14d4cf855281)
 
+![unnamed](https://github.com/Kodluyoruz/proje-atolyesi/assets/52050768/a0c10931-20cc-4ad5-b31a-7e38ed53a674)
 
 ## Proje Atölyesi Nedir?
 🚀 Sizi, yaratıcı düşünme becerilerinizi kullanacağınız ve eğlenceli bir öğrenme deneyimi yaşayacağınız bir proje atölyesi etkinliğine davet ediyoruz.
