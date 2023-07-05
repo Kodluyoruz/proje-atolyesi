@@ -11,7 +11,7 @@
 ## Etkinlik Takip Tablosu
 |                  | Etkinlik Tarihi   | Yazılım Dilleri                  | Takım İsimleri    | Etkinlik Görevlileri                                                                                                                                                                     |
 |------------------|-------------------|----------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Proje Atölyesi 2 | 05.07.2023        | Python, C, C++, Java, JavaScript | ...               | [@omerahat](https://github.com/omerahat) [@berktugates](https://github.com/berktugates) [@zynpasarkaya](https://github.com/zynpasarkaya) [@haydogdu1990](https://github.com/haydogdu1990) [kaankacar](https://github.com/kaankacar) |
+| Proje Atölyesi 2 | 05.07.2023        | Python, C, C++, Java, JavaScript | ...               | [@omerahat](https://github.com/omerahat) [@berktugates](https://github.com/berktugates) [@zynpasarkaya](https://github.com/zynpasarkaya) [@haydogdu1990](https://github.com/haydogdu1990) [@kaankacar](https://github.com/kaankacar) |
 | Proje Atölyesi 3 | Henüz Belli Değil | Henüz Belli Değil                | Henüz Belli Değil | Henüz Belli Değil                                                                                                                                                                        |
 
 ## Nasıl Projenizi Ekleyebilirsiniz
