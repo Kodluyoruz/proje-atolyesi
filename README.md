@@ -4,7 +4,7 @@
 ## Proje Atölyesi Nedir?
 🚀 Sizi, yaratıcı düşünme becerilerinizi kullanacağınız ve eğlenceli bir öğrenme deneyimi yaşayacağınız bir proje atölyesi etkinliğine davet ediyoruz.
 
-📇 Bu etkinlik, katılımcıların belirli bir yazılım dilinde bir projeyi belirlenen dakika içinde oluşturmasını ve ardından bu projeyi herkese sunmalarına olanak sağlar. Etkinliğe katılan kişiler gruplara ayrılır ve her grup belirli bir süre içinde projelerini tamamlar.
+📇 Bu etkinlik, katılımcıların belirli bir yazılım dilinde bir projeyi belirlenen süre içinde oluşturmasını ve ardından bu projeyi herkese sunmalarına olanak sağlar. Etkinliğe katılan kişiler gruplara ayrılır ve her grup belirli bir süre içinde projelerini tamamlar.
 
 💌 Bu şekilde, her grup kendi fikirlerini ve düşüncelerini bir araya getirerek birlikte daha büyük bir projeyi oluşturacaklar. Etkinlik, insanların yaratıcılıklarını kullanmalarına ve farklı bakış açılarını birleştirmelerine olanak tanırken, aynı zamanda birbirleriyle etkileşim kurmalarına yardımcı olur. Etkinliğin sonunda, her grup kendi yaratımını sunacak ve diğer grupların projelerini de görebilecektir.
 
@@ -27,7 +27,7 @@
 
 6. Pull Request Gönderin: Github üzerinde forked repository'nize gidin, yeni branch'inizi seçin, "New pull request" düğmesine tıklayın ve orijinal repository'e pull request göndermek için yönergeleri izleyin.
 
-7. [Formu](burası henüz hazır değil) doldurun.
+7. [Formu](https://forms.gle/mcqoBpeHBKmAfnzn6) doldurun.
 
 ## Proje İçin Readme Hazırlama
 
