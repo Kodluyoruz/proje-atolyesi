@@ -34,5 +34,8 @@ python run.py
 
 Ürün bilgileri toplandıktan sonra, `urunler.xlsx` adında bir Excel dosyası oluşturulur. Bu dosyada her ürün için ad, fiyat, açıklama ve görsellerin bağlantıları bulunur.
 
+## Takım Üyeleri
+
+  -  [Abdulkadir Bülbül](https://github.com/Abdulkadirbulbul)
 
 ---
