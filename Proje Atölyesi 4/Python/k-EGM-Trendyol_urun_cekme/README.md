@@ -37,5 +37,6 @@ python run.py
 ## Takım Üyeleri
 
   -  [Abdulkadir Bülbül](https://github.com/Abdulkadirbulbul)
-
+  -  [Ege Tunç](https://github.com/egetunc)
+  
 ---
