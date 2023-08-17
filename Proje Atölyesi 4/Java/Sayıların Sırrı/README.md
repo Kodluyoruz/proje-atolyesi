@@ -4,4 +4,4 @@ sistemin bize verdiği gizli sayıyı tahmin etmeye çalıştığınız bir prog
 
 ## Takım Üyeleri
 
-  -  [Mehmet Emre Öztürk(https://github.com/darkking928)
+  -  [Mehmet Emre Öztürk](https://github.com/darkking928)
